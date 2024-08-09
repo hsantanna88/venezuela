@@ -3,7 +3,7 @@
 
 Here you will find the R scripts for the administrative data cleaning, regressions, STATA codes also for the survey data.
 
-THe R script follows a simple structure based on the file name numbering.
+The R script follows a simple structure based on the file name numbering.
 
 00 - auxiliary functions for printing plots and tables.
 
