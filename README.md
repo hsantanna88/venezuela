@@ -24,3 +24,9 @@ The R script follows a simple structure based on the file name numbering.
 08 - occupation heterogeneity analysis
 
 09 - industry heterogeneity analysis
+
+# Codes for informal labor market analysis using the PNAD dataset.
+
+The analysis for the informal labor market effects using PNAD dataset can be found in the following Stata .do file.
+
+02 Analysis_PNAD.do
